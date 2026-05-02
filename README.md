@@ -1,6 +1,6 @@
 # octra-dev-skill
 
-A skill for [Claude Code](https://claude.ai/code) that provides full knowledge of the Octra FHE blockchain developer stack — including AppliedML language syntax, program deployment workflow, RPC API, and network overview.
+A skill for [Claude Code](https://claude.ai/code) that provides full knowledge of the Octra FHE blockchain developer stack - including AppliedML language syntax, program deployment workflow, RPC API, and network overview.
 
 ## What it does
 
@@ -30,7 +30,7 @@ references/
 claude skill install https://github.com/Wandory/octra-dev-skill
 ```
 
-Or manually — copy the repo and point Claude Code to the `SKILL.md`.
+Or manually - copy the repo and point Claude Code to the `SKILL.md`.
 
 ## Triggers
 
